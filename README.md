@@ -17,5 +17,9 @@ Database project, carried out in the 4th semester of studies at AGH.
    - Server part:
      Django (Python)
 
-4) Link to the repository (GitHub, Bitbucket, GitLab, itp.): 
+4) Some images of our website:
+![Opis alternatywny](img/10.png)
+
+   
+5) Link to the repository (GitHub, Bitbucket, GitLab, itp.): 
    - https://github.com/skochv04/BD2_PROJECT

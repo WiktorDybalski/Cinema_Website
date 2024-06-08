@@ -42,7 +42,3 @@ Database project, carried out in the 4th semester of studies at AGH.
 
 8. Register
 ![Opis alternatywny](img/19.png)
-
- 
-6) Link to the repository (GitHub, Bitbucket, GitLab, itp.): 
-   - https://github.com/skochv04/BD2_PROJECT

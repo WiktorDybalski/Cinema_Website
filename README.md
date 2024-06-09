@@ -29,7 +29,7 @@ Database project, carried out in the 4th semester of studies at AGH.
 ![Opis alternatywny](img/13.png)
    
 4. Movie Stage: 
-![Opis alternatywny](img/15.png)
+![Opis alternatywny](img/stage.png)
 
 5. My tickets:
 ![Opis alternatywny](img/16.png)
